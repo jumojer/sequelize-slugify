@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "sluglife": "^0.9.7"
+    "slug": "^0.9.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
